@@ -1,0 +1,15 @@
+{
+  "name": "infinite-carousel-master",
+  "version": "1.0.0",
+  "description": "Showcasing recent projects or high profile clients is essential to attracting new customers. [Solodev's](https://www.solodev.com/) infinite carousel cycles through dozens of items with contemporary styling and necessary responsiveness. Using [Slick Slider by Ken Wheeler](http://kenwheeler.github.io/slick/), this carousel can be adapted to fit your website needs and add a touch of agency inspired design.",
+  "main": "slick.js",
+  "dependencies": {
+    "surge": "^0.20.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
